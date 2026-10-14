@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: plancha.png
+Ruta del archivo: C:\IA_Gpo3H\VA_0103\u2act1-0105\imagen original-0105\plancha.png
+Formato por extension: .PNG
+Tamano en bytes: 98187
+Tamano en KB: 95.89
+Tamano en MB: 0.0936
+
+DIMENSIONES
+-----------
+Ancho: 1000 pixeles
+Alto: 1000 pixeles
+Resolucion: 1000 x 1000
+Total de pixeles: 1,000,000
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 218.78
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 222.53
+Verde (G): 221.71
+Rojo (R): 212.10
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
